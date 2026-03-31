@@ -1,0 +1,113 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JavaDelivery",
+            "request": "launch",
+            "mainClass": "main.JavaDelivery",
+            "projectName": "JavaDelivery_e6e3b34"
+        },
+        {
+            "type": "java",
+            "name": "CustomerReviewWritePanel",
+            "request": "launch",
+            "mainClass": "frame.CustomerReviewWritePanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "StoreMenuPanel",
+            "request": "launch",
+            "mainClass": "frame.StoreMenuPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "StoreAcceptPanel",
+            "request": "launch",
+            "mainClass": "frame.StoreAcceptPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "StorePagePanel",
+            "request": "launch",
+            "mainClass": "frame.StorePagePanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "StoreCustomerViewPanel",
+            "request": "launch",
+            "mainClass": "frame.StoreCustomerViewPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "StoreReviewPanel",
+            "request": "launch",
+            "mainClass": "frame.StoreReviewPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "CustomerSignupPanel",
+            "request": "launch",
+            "mainClass": "frame.CustomerSignupPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "StoreSignupPanel",
+            "request": "launch",
+            "mainClass": "frame.StoreSignupPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "StoreOrderPanel",
+            "request": "launch",
+            "mainClass": "frame.StoreOrderPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "LoginPanel",
+            "request": "launch",
+            "mainClass": "frame.LoginPanel",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "OrderRequest",
+            "request": "launch",
+            "mainClass": "OrderRequest",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "JavaDelivery",
+            "request": "launch",
+            "mainClass": "main.JavaDelivery",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "MainApp1",
+            "request": "launch",
+            "mainClass": "main.MainApp1",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main.main",
+            "projectName": "JavaDelivery_b7fd7dd8"
+        }
+    ]
+}
